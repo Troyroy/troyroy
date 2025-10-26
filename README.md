@@ -1,4 +1,4 @@
-![Image of my monster collection.](/assets/collection.png)
+![Image of my monster collection.](/assets/collection.jpg)
 
 <!--
 **Troyroy/troyroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
